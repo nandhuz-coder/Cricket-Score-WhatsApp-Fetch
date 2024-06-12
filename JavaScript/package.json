@@ -1,0 +1,15 @@
+{
+  "name": "cricket-score-watsapp-bot",
+  "version": "1.0.0",
+  "description": "Watsapp bot to show cricket scores",
+  "main": "main.js",
+  "scripts": {
+    "test": "node start.js"
+  },
+  "author": "Nandha Gopan",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.71.12",
+    "axios": "^1.7.2"
+  }
+}
