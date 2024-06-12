@@ -131,3 +131,4 @@ dist
 
 # Files & Folders
 _IGNORE_*
+.data.json
